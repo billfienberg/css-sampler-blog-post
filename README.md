@@ -6,7 +6,7 @@
  1. [Build a Basic Nav](https://codepen.io/billfienberg/pen/WxXpEO)
  2. [Add a Fixed Dropdown](https://codepen.io/billfienberg/pen/pbarKR)
  3. [Toggle the Dropdown](https://codepen.io/billfienberg/pen/rwdmKX)
- 4. [Add the Triangle](https://codepen.io/billfienberg/pen/rwdmKX)
+ 4. [Add the Triangle](https://codepen.io/billfienberg/pen/PjRmWj)
 
 ### Concepts Covered:
 * [`create-react-app`](https://github.com/facebookincubator/create-react-app)
