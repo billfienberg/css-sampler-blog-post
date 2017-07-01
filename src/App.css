@@ -68,6 +68,10 @@
 }
 
 .dropdown {
+  display: none;
+}
+
+.dropdown--isOpen {
   display: flex;
   flex-direction: column;
   position: absolute;
