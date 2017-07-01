@@ -13,6 +13,11 @@ class App extends Component {
 							<i className="material-icons menuIcon">keyboard_arrow_down</i>
 						</button>
 					</div>
+					<div className="dropdown">
+						<a href="#" className="dropdown-link">Inbox</a>
+						<a href="#" className="dropdown-link">Settings</a>
+						<a href="#" className="dropdown-link">Sign Out</a>
+					</div>
 				</div>
 				<a href="#" className="help">Help</a>
 			</div>

@@ -67,6 +67,25 @@
   font-size: 32px;
 }
 
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  border: 1px solid black;
+  top: 80px;
+  right: -1px;
+}
+
+.dropdown-link {
+  padding: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.dropdown-link:hover {
+  color: blue;
+}
+
 .help {
   display: flex;
   align-items: center;
